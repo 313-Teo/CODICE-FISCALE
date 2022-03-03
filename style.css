@@ -1,0 +1,58 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(241, 185, 31);
+}
+
+.form{
+    background-color: rgb(90, 0, 255);
+    width: 35%;
+    margin: 200px auto;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+.form label {
+    color: white;
+    margin-top: 5px;
+    padding: 10px;
+}
+
+.form select{
+    font-size: 23px;
+}
+
+.form input{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.button{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+    color: rgb(90, 0, 255);
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 30px;
+    border: none;
+}
+
+.text{
+    padding: 20px;
+}
+
+.form-out{
+    background-color: transparent;
+    width: 35%;
+    margin: 0px auto;
+    margin-top: -150px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+.form-out label {
+    color: transparent;
+    margin-top: 5px;
+    padding: 4px;
+}
